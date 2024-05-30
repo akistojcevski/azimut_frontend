@@ -1,0 +1,6 @@
+{
+  "appTitle": "azimut_frontend",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
